@@ -1,4 +1,4 @@
-<img width="634" height="257" alt="image" src="https://github.com/user-attachments/assets/83f4024d-2aca-40d5-8338-3185791cd3c6" /><img width="635" height="294" alt="image" src="https://github.com/user-attachments/assets/fd8d1229-6004-48c7-a73e-26cc8bc7f7c6" /># Hi there, I'm Siddharth 👋
+# Hi there, I'm Siddharth 👋
 
 **Professional Data & ML Engineer | Multi-Cloud Architect (GCP, AWS, Azure)**
 
