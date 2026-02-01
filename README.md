@@ -15,10 +15,11 @@ I am a highly certified cloud professional with deep expertise in **Data Enginee
 *Click on badges to verify credentials.*
 
 ### ☁️ Google Cloud (Professional & Associate)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="75d2371e-96f3-4180-8fef-d98a76b6c87d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 [<img src="https://img.shields.io/badge/Professional_Data_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />](https://www.credly.com/users/siddharthsbhadauria)
 [<img src="https://img.shields.io/badge/Professional_ML_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />](https://www.credly.com/users/siddharthsbhadauria)
 [<img src="https://img.shields.io/badge/Generative_AI_Leader-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />](https://www.credly.com/users/siddharthsbhadauria)
-[<img src="https://img.shields.io/badge/Associate_Data_Practitioner-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />](https://www.credly.com/users/siddharthsbhadauria)
+[<img src="https://img.shields.io/badge/Associate_Data_Practitioner-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />]([https://www.credly.com/users/siddharthsbhadauria](https://www.credly.com/badges/75d2371e-96f3-4180-8fef-d98a76b6c87d))
 [<img src="https://img.shields.io/badge/Cloud_Digital_Leader-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />](https://www.credly.com/users/siddharthsbhadauria)
 
 ### 🔷 Microsoft Azure
@@ -35,10 +36,10 @@ I am a highly certified cloud professional with deep expertise in **Data Enginee
 <summary><b>🛠️ View Advanced Skill Badges (GCP & Generative AI)</b></summary>
 <br />
 Expertise demonstrated in:
-- [cite_start]**GenAI Development:** Prompt Engineering, Vertex AI Gemini API, & LangChain [cite: 39, 57, 191]
-- [cite_start]**AI Solutions:** Agent Builder (Search/Chat) & Document AI [cite: 45, 163]
-- [cite_start]**Advanced Data:** BigQuery ML, Dataflow, & PostgreSQL Instances [cite: 208, 301]
-- [cite_start]**Cloud Ops:** Infrastructure with Terraform on GCP & Network Setup [cite: 308, 351]
+- **GenAI Development:** Prompt Engineering, Vertex AI Gemini API, & LangChain
+- **AI Solutions:** Agent Builder (Search/Chat) & Document AI
+- **Advanced Data:** BigQuery ML, Dataflow, & PostgreSQL Instances
+- **Cloud Ops:** Infrastructure with Terraform on GCP & Network Setup
 </details>
 
 ---
@@ -60,13 +61,9 @@ Expertise demonstrated in:
   </tr>
 </table>
 
-### 🏆 Achievements
-![](https://github-profile-trophy.vercel.app/?username=siddharthsbhadauria&theme=radical&no-bg=true)
-
 ---
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
   <br />
-  <img src="https://visitcount.itsvg.in/api?id=siddharthsbhadauria&icon=0&color=0" />
 </p>
