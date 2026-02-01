@@ -1,4 +1,4 @@
-# Hi there, I'm Siddharth 👋
+<img width="634" height="257" alt="image" src="https://github.com/user-attachments/assets/83f4024d-2aca-40d5-8338-3185791cd3c6" /><img width="635" height="294" alt="image" src="https://github.com/user-attachments/assets/fd8d1229-6004-48c7-a73e-26cc8bc7f7c6" /># Hi there, I'm Siddharth 👋
 
 **Professional Data & ML Engineer | Multi-Cloud Architect (GCP, AWS, Azure)**
 
@@ -22,22 +22,31 @@ I specialize in designing and deploying production-grade AI/ML pipelines and rob
 
 ## 📜 Professional Credentials:
 ### ☁️ Google Cloud
-[<img src="https://img.shields.io/badge/Professional_Data_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />](https://www.credly.com/users/siddharthsbhadauria)
-[<img src="https://img.shields.io/badge/Professional_ML_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />](https://www.credly.com/users/siddharthsbhadauria)
-[<img src="https://img.shields.io/badge/Generative_AI_Leader-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />](https://www.credly.com/users/siddharthsbhadauria)
+[<img src="https://img.shields.io/badge/Professional_Data_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />](https://www.credly.com/badges/7a5098a6-8825-4554-ab7c-daa23800f713)
+[<img src="https://img.shields.io/badge/Professional_ML_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />](https://www.credly.com/badges/e07bc8bb-56a0-437b-bc85-50dbef149182)
+[<img src="https://img.shields.io/badge/Generative_AI_Leader-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />](https://www.credly.com/badges/af015d62-871f-49a6-bf80-266b2386062e)
+[<img src="https://img.shields.io/badge/Associate_Data_Practitioner-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />](https://www.credly.com/badges/75d2371e-96f3-4180-8fef-d98a76b6c87d)
+[<img src="https://img.shields.io/badge/Cloud_Digital_Leader-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />](https://www.credly.com/badges/d9cc1db4-f1b0-4d39-9fc1-dc4f0bfd9924)
 
-### 🚀 AWS, Azure & Infrastructure
-[<img src="https://img.shields.io/badge/AWS_AI_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />](https://www.credly.com/users/siddharthsbhadauria)
-[<img src="https://img.shields.io/badge/Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />](https://learn.microsoft.com/en-us/users/siddharthsbhadauria/transcript/7xnmyi8o2je4z8n)
-[<img src="https://img.shields.io/badge/Terraform_Associate-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />](https://www.credly.com/users/siddharthsbhadauria)
+### 🔷 Microsoft Azure
+[<img src="https://img.shields.io/badge/Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />](https://learn.microsoft.com/api/credentials/share/en-us/siddharthsbhadauria/7BEE614B08A6D620?sharingId=D3A218773F4E49B0)
+[<img src="https://img.shields.io/badge/Azure_Data_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />](https://learn.microsoft.com/api/credentials/share/en-us/siddharthsbhadauria/D2929DDC7D85C753?sharingId=D3A218773F4E49B0)
+[<img src="https://img.shields.io/badge/Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />](https://learn.microsoft.com/api/credentials/share/en-us/siddharthsbhadauria/203366FD0B89FBED?sharingId=D3A218773F4E49B0)
+
+### 🚀 AWS & Infrastructure
+[<img src="https://img.shields.io/badge/AWS_AI_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />](https://www.credly.com/badges/b03a292e-cc06-4825-99f0-de409774947a)
+[<img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />](https://www.credly.com/badges/4fd7642d-68b8-4728-b551-27e700079cdf)
+[<img src="https://img.shields.io/badge/Terraform_Associate-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />](https://www.credly.com/badges/9af9de9b-2341-446d-8af7-b454c9274b36)
+
 
 <details>
-<summary><b>🛠️ Specialized Skill Badges</b></summary>
+<summary><b>🛠️ [View Advanced Skill Badges (GCP & Generative AI)](https://www.credly.com/users/siddharthsbhadauria) </b></summary>
 <br />
 Expertise demonstrated in:
-- [cite_start]**GenAI:** Prompt Engineering, Vertex AI Gemini API, & LangChain [cite: 37, 57, 136, 171]
-- [cite_start]**Data:** BigQuery ML, Dataflow, & PostgreSQL [cite: 198, 208, 301]
-- [cite_start]**DevOps:** Terraform on GCP & Network Infrastructure [cite: 308, 351]
+- **GenAI Development:** Prompt Engineering, Vertex AI Gemini API, & LangChain
+- **AI Solutions:** Agent Builder (Search/Chat) & Document AI
+- **Advanced Data:** BigQuery ML, Dataflow, & PostgreSQL Instances
+- **Cloud Ops:** Infrastructure with Terraform on GCP & Network Setup
 </details>
 
 ---
