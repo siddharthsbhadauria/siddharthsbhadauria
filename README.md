@@ -2,7 +2,7 @@
 
 **Professional Data & Machine Learning Engineer | Multi-Cloud Specialist**
 
-I am a highly certified cloud professional with deep expertise in **Data Engineering, ML Ops, and Generative AI** across Google Cloud, AWS, and Azure. [cite_start]I specialize in building robust data systems [cite: 367] [cite_start]and production-grade ML models [cite: 377] using Python, PowerShell, and Terraform.
+I am a highly certified cloud professional with deep expertise in **Data Engineering, ML Ops, and Generative AI** across Google Cloud, AWS, and Azure. I specialize in building robust data systemsand production-grade ML models using Python, PowerShell, and Terraform.
 
 ---
 
@@ -16,6 +16,7 @@ I am a highly certified cloud professional with deep expertise in **Data Enginee
 
 ### ☁️ Google Cloud (Professional & Associate)
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="75d2371e-96f3-4180-8fef-d98a76b6c87d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 [<img src="https://img.shields.io/badge/Professional_Data_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />](https://www.credly.com/users/siddharthsbhadauria)
 [<img src="https://img.shields.io/badge/Professional_ML_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />](https://www.credly.com/users/siddharthsbhadauria)
 [<img src="https://img.shields.io/badge/Generative_AI_Leader-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />](https://www.credly.com/users/siddharthsbhadauria)
