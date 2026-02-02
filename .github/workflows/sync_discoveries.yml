@@ -2,19 +2,37 @@ name: Sync Discoveries to Profile
 
 on:
   schedule:
-    - cron: '0 21 * * *' # Runs once a day at 9 PM
-  workflow_dispatch:   
+    # Runs at 9 PM UTC daily to catch all of that day's bot activity
+    - cron: '0 21 * * *'
+  workflow_dispatch: # Allows you to trigger it manually for testing
 
 jobs:
   update-readme-with-discoveries:
+    name: Update Profile README with AI Discoveries
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Crucial: Allows the bot to edit your README
     steps:
-      - uses: actions/checkout@v4
-      - name: Pull Bot Discoveries
+      - name: Checkout Profile Repo
+        uses: actions/checkout@v4
+
+      - name: Pull Bot Discoveries from Atom Feed
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          # Pointer to your Bot's commit history feed
           feed_list: "https://github.com/siddharthsbhadauria/awesome-ai-discoveries/commits/main.atom"
-          max_post_count: 5
+          
+          # This MUST match the tag in your README
           comment_tag_name: "LIST"
-          # This cleans up the commit messages to look like a list
-          template: "$newline - $title"
+          
+          # How many recent discoveries to show on your bio
+          max_post_count: 5
+          
+          # Custom template for a professional ML Engineer look
+          # Shows: 🚀 Commit Title (YYYY-MM-DD)
+          template: "$newline - 🚀 $title ($date)"
+          date_format: "yyyy-mm-dd"
+          
+          # Prevents the workflow from failing if the feed is temporarily empty
+          retry_count: 3
+          retry_delay: 5
