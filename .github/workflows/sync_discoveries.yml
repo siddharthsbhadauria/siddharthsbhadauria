@@ -1,0 +1,20 @@
+name: Sync Discoveries to Profile
+
+on:
+  schedule:
+    - cron: '0 21 * * *' # Runs once a day at 9 PM
+  workflow_dispatch:   
+
+jobs:
+  update-readme-with-discoveries:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pull Bot Discoveries
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://github.com/siddharthsbhadauria/awesome-ai-discoveries/commits/main.atom"
+          max_post_count: 5
+          comment_tag_name: "LIST"
+          # This cleans up the commit messages to look like a list
+          template: "$newline - $title"
