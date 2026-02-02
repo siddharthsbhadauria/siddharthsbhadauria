@@ -70,9 +70,9 @@ Expertise demonstrated in:
 ---
 
 ## 🤖 My Daily AI Discoveries
-``
+<!-- BLOG-POST-LIST:START -->
 
-``
+<!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Currently Exploring
 - Homelab setups & automation
