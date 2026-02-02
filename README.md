@@ -68,6 +68,9 @@ Expertise demonstrated in:
 </details>
 
 ---
+## 🤖 My Daily AI Discoveries
+
+
 ## 🚀 Currently Exploring
 - Homelab setups & automation
 - Docker for containerization
