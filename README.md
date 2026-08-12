@@ -1,14 +1,17 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1424&height=180&section=header&text=Siddharth%20Singh%20Bhadauria&fontSize=36&fontColor=00f0ff&fontAlignY=38&desc=Senior%20Cloud,%20Data%20%26%20AI%20Engineer%20%7C%2011.5%2B%20Years%20Experience&descSize=14&descColor=cbd5e1&descAlignY=62" width="100%" />
-</p>
+# Hi there, I'm Siddharth Singh Bhadauria 👋
 
-<p align="center">
+### **Senior Cloud, Data & AI Engineer | 11.5+ Years Experience**
+**London, UK** • Multi-Cloud Control Planes (GCP, AWS, Azure) • GenAI Infrastructure & RAG • FinOps & Cost Optimization • DuckDB & Terraform
+
+---
+
+<p align="left">
   <a href="https://siddharthsbhadauria.netlify.app/"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-siddharthsbhadauria.netlify.app-d96b43?style=for-the-badge&logo=netlify&logoColor=white" /></a>
   <a href="https://linkedin.com/in/siddharthsbhadauria"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.credly.com/users/siddharthsbhadauria/badges/credly"><img src="https://img.shields.io/badge/Credly_Badges-FF6600?style=for-the-badge&logo=credly&logoColor=white" /></a>
 </p>
 
-<br/>
+---
 
 ### 👋 About Me
 Senior Cloud, Data, and AI Engineer based in **London, UK** with **11.5+ years of experience** architecting enterprise multi-cloud control planes, Generative AI infrastructure, FinOps analytical engines, and real-time data pipelines across **GCP, AWS, and Azure**. 
@@ -29,7 +32,7 @@ Certified Google Professional Machine Learning & Data Engineer with extensive ha
 
 ---
 
-## 💻 Tech Stack & Core Competencies
+## 💻 Technical Stack & Core Competencies
 
 ```
 ☁️ Cloud Ecosystems   : GCP (BigQuery, Vertex AI, GKE Autopilot, Log Routers, CMEK, CAI), AWS (EKS, Karpenter, S3, DynamoDB), Azure (AKS, CosmosDB)
@@ -60,25 +63,16 @@ Certified Google Professional Machine Learning & Data Engineer with extensive ha
 
 ---
 
-## 📈 GitHub Analytics & Activity
+## 📈 GitHub Activity Matrix
 
-<p align="center">
-  <a href="https://github.com/siddharthsbhadauria">
-    <img src="https://github-readme-stats.vercel.app/api?username=siddharthsbhadauria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  </a>
-  <a href="https://github.com/siddharthsbhadauria">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthsbhadauria&theme=tokyonight&hide_border=true&layout=compact" height="165" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/siddharthsbhadauria">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthsbhadauria&theme=tokyonight&hide_border=true" height="165" />
-  </a>
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub_Status-Active_Developer-00F0FF?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/Repositories-5_Featured-00FF9D?style=for-the-badge&logo=git&logoColor=black" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 ---
 
 <p align="center">
-  <sub>Built with ❤️ by Siddharth Singh Bhadauria • Hosted on Netlify & GitHub Pages</sub>
+  <sub>Built by Siddharth Singh Bhadauria • Hosted on Netlify & GitHub Pages</sub>
 </p>
