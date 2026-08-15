@@ -24,6 +24,7 @@ Certified Google Professional Machine Learning & Data Engineer with extensive ha
 
 | Project | Description | Live App & Repository |
 | :--- | :--- | :--- |
+| 🚀 **Homelab-MLOps** | Self-Hosted Telemetry Anomaly Detection & Model Governance Engine (DuckDB, MLflow, FastAPI). | [<img src="https://img.shields.io/badge/Live_Dashboard-00F0FF?style=flat-square&logo=github&logoColor=black" />](https://siddharthsbhadauria.github.io/homelab-mlops/) [<img src="https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/siddharthsbhadauria/homelab-mlops) |
 | 🛡️ **TF-Cost-Governor** | Automated Multi-Cloud Terraform FinOps & Security Advisory Engine using DuckDB & Checkov. | [<img src="https://img.shields.io/badge/Live_Dashboard-00F0FF?style=flat-square&logo=github&logoColor=black" />](https://siddharthsbhadauria.github.io/tf-cost-governor/) [<img src="https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/siddharthsbhadauria/tf-cost-governor) |
 | 📊 **Cloud-FinOps-RAG** | Autonomous Multi-Cloud AI Tokenomics & Price Benchmark Evaluator across 15+ LLM endpoints. | [<img src="https://img.shields.io/badge/Live_Dashboard-6366F1?style=flat-square&logo=github&logoColor=white" />](https://siddharthsbhadauria.github.io/cloud-finops-rag/) [<img src="https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/siddharthsbhadauria/cloud-finops-rag) |
 | 🚀 **Awesome-AI-Discoveries** | Automated daily AI GitHub repository aggregator, metadata scraper & web directory. | [<img src="https://img.shields.io/badge/Live_Directory-00FF9D?style=flat-square&logo=github&logoColor=black" />](https://siddharthsbhadauria.github.io/awesome-ai-discoveries/) [<img src="https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/siddharthsbhadauria/awesome-ai-discoveries) |
@@ -67,7 +68,7 @@ Certified Google Professional Machine Learning & Data Engineer with extensive ha
 
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub_Status-Active_Developer-00F0FF?style=for-the-badge&logo=github&logoColor=black" />
-  <img src="https://img.shields.io/badge/Repositories-5_Featured-00FF9D?style=for-the-badge&logo=git&logoColor=black" />
+  <img src="https://img.shields.io/badge/Repositories-6_Featured-00FF9D?style=for-the-badge&logo=git&logoColor=black" />
   <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
